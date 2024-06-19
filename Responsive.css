@@ -1,0 +1,7 @@
+@media screen and(max-width:1000px){
+    nav{
+        padding:10px;
+        height:30px;
+        justify-content: space-around;
+    }
+}
